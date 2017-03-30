@@ -57,9 +57,9 @@ If a community member engages in unacceptable behavior at an event, the event or
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Sending an email to info@backdropcms.org is a good place to start.
+If you are subject to or witness unacceptable behavior, please notify a community organizer as soon as possible.
 
-[Reporting Guidelines](https://github.com/backdrop-ops/policies/blob/master/reporting_guidelines.md)
+Send an email to info@backdropcms.org if you don't know where else to turn. See the [Reporting Guidelines](https://github.com/backdrop-ops/policies/blob/master/reporting_guidelines.md) about what information to include.
 
 Additionally, community organizers should be available to help community members engage with local law enforcement, or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers can also provide escorts as desired by the person experiencing distress.
 
