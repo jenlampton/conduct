@@ -53,7 +53,7 @@ Unacceptable behavior from any community member, including sponsors and those wi
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a community member engages in unacceptable behavior at an event, the event organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the event without warning (and without refund in the case of a paid event).
+If a community member engages in unacceptable behavior at an event, the event organizers may take any appropriate action, up to and including a temporary ban or permanent expulsion from the event without warning (and without refund in the case of a paid event).  An "approproate action" should protect other members of the community, and should be not a punitive attempt or a punishmnent for bad behavior.
 
 ## 7. Reporting Guidelines
 
@@ -71,7 +71,7 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 ## 9. Scope
 
-We expect all community participants (adopters, contributors, sponsors, and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
+We expect all community participants (leaders, contributors, sponsors, adopters, and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
