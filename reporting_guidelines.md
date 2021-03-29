@@ -45,7 +45,7 @@ Once we've determined our final action, we'll contact the original reporter to l
 
 ## Appealing the response
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the Project Management Committee, contact Backdrop CMS at inf@backdropcms.org with your appeal and the PMC will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the Project Management Committee, contact Backdrop CMS at info@backdropcms.org with your appeal and the PMC will review the case.
 
 _Revision 1.0, DRAFT, proposed March 2016_
 _Reporting Guidelines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
