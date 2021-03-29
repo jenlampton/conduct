@@ -97,7 +97,7 @@ behavior.
 If you are subject to or witness unacceptable behavior, please notify a
 community organizer as soon as possible. Send an email to info@backdropcms.org
 if you don't know where else to turn. See the
-[Reporting Guidelines](https://github.com/backdrop-ops/policies/blob/master/reporting_guidelines.md)
+[Reporting Guidelines](https://github.com/backdrop-ops/conduct/blob/main/reporting_guidelines.md)
 about what information to include.
 
 Community organizers should be available to help community members engage with
