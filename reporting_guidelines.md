@@ -1,6 +1,6 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you please report it to Backdrop CMS by emailing info@backdropcms.org.
+If you believe someone is violating the code of conduct we ask that you please report it to Backdrop CMS by emailing conduct@backdropcms.org.
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -45,7 +45,7 @@ Once we've determined our final action, we'll contact the original reporter to l
 
 ## Appealing the response
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the Project Management Committee, contact Backdrop CMS at info@backdropcms.org with your appeal and the PMC will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the Project Management Committee, contact Backdrop CMS at conduct@backdropcms.org with your appeal and the PMC will review the case.
 
 _Revision 1.0, DRAFT, proposed March 2016_
 _Reporting Guidelines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._

@@ -95,7 +95,7 @@ behavior.
 ## 7. Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, please notify a
-community organizer as soon as possible. Send an email to info@backdropcms.org
+community organizer as soon as possible. Send an email to conduct@backdropcms.org
 if you don't know where else to turn. See the
 [Reporting Guidelines](https://github.com/backdrop-ops/conduct/blob/main/reporting_guidelines.md)
 about what information to include.
@@ -131,8 +131,8 @@ members.
 
 ## 10. Contact info
 
-Please contact Backdrop CMS at info@backdropcms.org to open a new issue for the
-Backdrop CMS Project Management Committee to evaluate.
+Please contact Backdrop CMS at conduct@backdropcms.org to open a new issue for
+the Backdrop CMS Project Management Committee to evaluate.
 
 ## 11. License and attribution
 
